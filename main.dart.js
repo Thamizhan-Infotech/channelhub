@@ -78749,7 +78749,7 @@ A.adI.prototype={
 t(a){var s=null
 return A.a7(A.b([A.T(s,B.a5F,B.h,s,s,new A.a6(s,s,s,s,A.b([new A.cN(0,B.aI,B.qO.by(3),B.PL,15)],t.F),B.a75,s,B.an),s,80,s,s,s,s,80),B.d3,A.q("Thank you for your application!",s,s,$.f9().ak(B.qO),B.T),B.a4,new A.al(B.kB,A.q("Thank you for the information. Your application is under review. You will receive an email once the verification is complete.",s,s,$.aX().ak(B.ks),B.T),s),B.d3,A.fV(s,s,!1,!1,new A.aTV(a),s,B.b5,"Click Here to HOME PAGE",s,s,B.ak)],t.p),B.j,B.ao,B.d)}}
 A.aTV.prototype={
-$0(){A.aZ(this.a,!1).vp("/login",new A.aTU(),t.X)},
+$0(){A.aZ(this.a,!1).vp("/guest",new A.aTU(),t.X)},
 $S:0}
 A.aTU.prototype={
 $1(a){return!1},
